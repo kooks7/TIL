@@ -2,6 +2,13 @@
 
 ## 07
 
+#### 07.16
+
+**TIL**
+
+1. 그래프 구조 공부
+2. fanout write vs fanout read 발표 준비
+
 #### 07.15
 
 **TIL**
